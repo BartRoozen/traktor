@@ -1,8 +1,8 @@
 {
-    "name": "alanly/traktor",
+    "name": "devconnl/traktor",
     "description": "A Trakt.tv API client library in PHP, compatible with PSR-4 and Composer.",
     "type": "library",
-    "homepage": "https://github.com/alanly/traktor",
+    "homepage": "https://github.com/devconnl/traktor",
     "license": "MIT",
     "authors": [
         {
